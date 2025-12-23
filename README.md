@@ -1,4 +1,4 @@
-# AgniRaksha
+
 # 🔥 AgniRaksha  
 ### Edge AI & IoT-Powered Predictive Safety Platform for Fireworks MSMEs  
 **“Seconds that save lives.”**
